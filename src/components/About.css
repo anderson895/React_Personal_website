@@ -1,0 +1,25 @@
+.about-container {
+    padding: 30px; /* Add padding to the container for spacing */
+    background-image: url('https://img.freepik.com/premium-vector/korean-autumn-background-flat-design_94250-182.jpg?w=1380');  /* Replace with your own background image */
+    background-size: cover;
+    border-radius: 8px; /* Rounded corners for container */
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+}
+
+.timeline {
+    list-style-type: none; /* Remove default list styling */
+    padding: 0; /* Remove default padding */
+}
+
+.timeline li {
+    margin-bottom: 15px; /* Space between education items */
+}
+
+.timeline h5 {
+    font-weight: bold; /* Emphasize degree titles */
+    margin: 0; /* Remove default margin */
+}
+
+.timeline p {
+    margin: 5px 0 0 0; /* Add spacing for description */
+}

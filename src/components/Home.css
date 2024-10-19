@@ -1,0 +1,30 @@
+.landing-container {
+    background-image: url('https://img.freepik.com/premium-vector/korean-autumn-background-flat-design_94250-182.jpg?w=1380');  /* Replace with your own background image */
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .landing-title {
+    color: white;
+    font-size: 4rem;
+    font-weight: bold;
+    text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.7);
+    margin-bottom: 20px;
+  }
+  
+  .landing-subtitle {
+    color: white;
+    font-size: 1.5rem;
+    margin-bottom: 40px;
+    text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.7);
+  }
+  
+  button {
+    padding: 10px 20px;
+    font-size: 1.2rem;
+  }
+  
