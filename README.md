@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/ed783912-bb47-423e-bc8a-cb280a934f41)#Don't forget to install this following
 
 ### `npm install react-router-dom react-bootstrap bootstrap`
 
