@@ -1,4 +1,4 @@
-#Don't forget to install this following
+![image](https://github.com/user-attachments/assets/ed783912-bb47-423e-bc8a-cb280a934f41)#Don't forget to install this following
 
 ### `npm install react-router-dom react-bootstrap bootstrap`
 
@@ -67,8 +67,17 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 
 ### Deployment
 
+
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+
+![image](https://github.com/user-attachments/assets/42955ba0-1872-4f15-981d-4ba1d8772010)
+![image](https://github.com/user-attachments/assets/92b4fd54-a221-4b39-8c5b-00be8ef2efbd)
+![image](https://github.com/user-attachments/assets/2611daa9-168d-4654-bbb2-25b40a943e27)
+
